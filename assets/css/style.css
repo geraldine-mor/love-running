@@ -85,6 +85,7 @@ nav {
 /*Main Content*/
 main {
     background-color: lightblue;
+    margin-top: 47px;
     /* Make main content element take up any surplus screen space */
     flex: 1 0 auto;
 }
